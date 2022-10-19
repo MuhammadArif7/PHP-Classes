@@ -1,0 +1,20 @@
+Array:
+An array stores multiple values in one single variable:
+
+Array:
+It is a group of variable that stores data at sequenced memory location
+
+array element is accessed using index no.
+
+index no starts with 0
+
+In PHP, there are three types of arrays:
+
+1) Indexed arrays 
+- Arrays with numeric index
+
+2) Associative arrays 
+- Arrays with named keys
+
+3) Multidimensional arrays 
+- Arrays containing one or more arrays
